@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="CalculatePiTest" tests="9" skipped="0" failures="0" errors="0" timestamp="2023-02-10T13:17:40" hostname="DESKTOP-5KOSFTD" time="33.978">
+  <properties/>
+  <testcase name="testCalculatePiManager_2_DecimalPoints()" classname="CalculatePiTest" time="0.317"/>
+  <testcase name="testCalculatePiManager_5_DecimalPoints()" classname="CalculatePiTest" time="0.303"/>
+  <testcase name="testCalculatePiManager_8_DecimalPoints()" classname="CalculatePiTest" time="30.411"/>
+  <testcase name="testCalculatePiManager_3_DecimalPoints()" classname="CalculatePiTest" time="0.324"/>
+  <testcase name="testCalculatePiManager_6_DecimalPoints()" classname="CalculatePiTest" time="0.332"/>
+  <testcase name="testCalculatePiManager_1_DecimalPoints()" classname="CalculatePiTest" time="0.317"/>
+  <testcase name="testCalculatePiManager_4_DecimalPoints()" classname="CalculatePiTest" time="0.322"/>
+  <testcase name="testCalculatePi_0_DecimalPoints()" classname="CalculatePiTest" time="0.333"/>
+  <testcase name="testCalculatePiManager_7_DecimalPoints()" classname="CalculatePiTest" time="1.314"/>
+  <system-out><![CDATA[314.0
+314159.0
+3.14159265E8
+3142.0
+3141593.0
+31.0
+31416.0
+3.1415927E7
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
